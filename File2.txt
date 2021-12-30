@@ -5,4 +5,6 @@ chnage - change in master to understand conflict
 
 Change - To understand Rebase changes in file
 
+change - change for stash
+
 
