@@ -7,4 +7,7 @@ Change - To understand Rebase changes in file
 
 change - change for stash
 
+change - to understand push operation for remote server - WI6
+
+
 
